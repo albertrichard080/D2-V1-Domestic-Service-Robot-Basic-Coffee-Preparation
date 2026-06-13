@@ -1,0 +1,3 @@
+(fill-water cup1 counter)
+(add-powder cup1 counter)
+(brew-coffee cup1 counter)
