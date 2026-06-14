@@ -1,0 +1,8 @@
+.vscode/
+.idea/
+*.swp
+.~lock.*#
+*.aux
+*.log
+*.out
+.DS_Store
